@@ -1,3 +1,9 @@
+## Create TodoApp 
+
+-React Typescript for Frontend
+-Chakra UI for Styling
+-Golang for Backend
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
