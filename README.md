@@ -1,8 +1,8 @@
 ## Create TodoApp 
 
--React Typescript for Frontend
--Chakra UI for Styling
--Golang for Backend
+- React Typescript for Frontend
+- Chakra UI for Styling
+- Golang for Backend
 
 # Getting Started with Create React App
 
